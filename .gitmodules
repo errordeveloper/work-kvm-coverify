@@ -1,0 +1,18 @@
+[submodule "modules/qemu-doc"]
+	path = modules/qemu-doc
+	url = git://git.kernel.org/pub/scm/virt/qemu/amit/qemu-doc.git
+[submodule "modules/qemu-kvm"]
+	path = modules/qemu-kvm
+	url = git://git.kernel.org/pub/scm/virt/kvm/qemu-kvm.git
+[submodule "modules/staging:char"]
+	path = modules/staging:char
+	url = git://git.kernel.org/pub/scm/virt/qemu/amit/char.git
+[submodule "modules/staging:virtio-serial"]
+	path = modules/staging:virtio-serial
+	url = git://git.kernel.org/pub/scm/virt/qemu/amit/virtio-serial.git
+[submodule "modules/qemu-usb-audio-wip"]
+	path = modules/qemu-usb-audio-wip
+	url = git://git.kernel.org/pub/scm/virt/qemu/hpa/qemu-usb-audio-wip.git
+[submodule "modules/xilinx-device-tree"]
+	path = modules/xilinx-device-tree
+	url = git://git.xilinx.com/device-tree.git
